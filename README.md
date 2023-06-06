@@ -6,6 +6,6 @@ See section 2.2 of [requirements.pdf](./requirements.pdf) for more details on wh
 
 Watch the [ARP soof demo](./video/successful_arp_spoof_proof.mp4) to see the code running on client, server and attacker docker containers. 
 
-Overall mark for this subproblem: 100%
+**Overall mark for this subproblem: 100%**
 
-Overall mark for the module: 94%
+**Overall mark for the coursework: 94%**
